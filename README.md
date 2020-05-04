@@ -2,4 +2,4 @@
 
 Simple Maven Project
 
-1
+2
